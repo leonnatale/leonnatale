@@ -43,6 +43,7 @@ I'm 17! I love programming - especially Rust and C - and everything about low-le
   ### Back-End
 
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![Elysia](https://img.shields.io/badge/Elysia-%239146FF.svg?style=for-the-badge)
   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
@@ -86,7 +87,7 @@ I'm 17! I love programming - especially Rust and C - and everything about low-le
 
   ### Dependencies managers
 
-  ![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=Maven&logoColor=white)
+  ![Maven](https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=Maven&logoColor=white)
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
   ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
   ![NuGet](https://img.shields.io/badge/NuGet-004880.svg?style=for-the-badge&logo=nuget&logoColor=white)
