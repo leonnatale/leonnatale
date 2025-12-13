@@ -1,7 +1,7 @@
 ![My friends made this](cool_art.png)
 ---
 <h5 align="center">Hello! I'm Leo!</h5>
-I'm 17! I love programming - especially Rust and C - and everything about low-level programming. But I also enjoy building high-level applications!
+I'm 18! I love programming - especially Rust and C - and everything about low-level programming. But I also enjoy building high-level applications!
 <details>
   <summary>🐡 Programming languages</summary>
 
