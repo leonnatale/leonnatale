@@ -17,11 +17,6 @@ I'm 18! I love programming - especially Rust and C - and everything about low-le
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-  <h3 align="center">Top languages</h3>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonnatale&layout=compact">
-  </p>
 </details>
 
 <details>
@@ -46,6 +41,7 @@ I'm 18! I love programming - especially Rust and C - and everything about low-le
   ![Elysia](https://img.shields.io/badge/Elysia-%239146FF.svg?style=for-the-badge)
   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-%23ea285a.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
   ### Database
   
