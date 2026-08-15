@@ -1,6 +1,5 @@
 ![My friends made this](cool_art.png)
 ---
-hello lambarini
 <h5 align="center">Hello! I'm Leo!</h5>
 I'm 18! I'm a software engineer, I love programming - especially Rust and C - and everything about low-level programming. But I also enjoy building high-level applications!
 <details>
